@@ -1,4 +1,4 @@
 # Hibernate
-#2 Hibernate demo
+#2Hibernate demo
 
 #Demo Project
